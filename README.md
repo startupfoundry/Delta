@@ -38,7 +38,7 @@ Compilation Instructions
 =============
 - Clone this repository by running the following command in Terminal:  
 ```bash
-$ git clone git@github.com:rileytestut/Delta.git
+$ git clone https://github.com/rileytestut/Delta.git
 ```  
 
 - Update Git submodules
